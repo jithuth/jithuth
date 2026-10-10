@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Jithu Thomas — Full Stack Developer</title><desc id="desc">Midnight purple banner with an animated constellation and software terminal.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#1d1238"/></linearGradient><linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#38bdf8"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#a78bfa" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="370" rx="24" fill="url(#bg)"/><rect width="1200" height="370" rx="24" fill="url(#grid)"/>
+<circle cx="1030" cy="80" r="180" fill="#7c3aed" opacity=".08"/><circle cx="910" cy="330" r="160" fill="#0284c7" opacity=".08"/>
+<rect x="55" y="50" width="226" height="30" rx="15" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".3"/>
+<circle cx="75" cy="65" r="4" fill="#38bdf8"><animate attributeName="opacity" values="1;.3;1" dur="3s" repeatCount="indefinite"/></circle>
+<text x="90" y="70" fill="#c4b5fd" font-family="Verdana,sans-serif" font-size="11" letter-spacing="2">DEVELOPER · BUILDER</text>
+<text x="54" y="152" fill="#f8fafc" font-family="Verdana,sans-serif" font-weight="bold" font-size="58">Jithu Thomas</text>
+<text x="58" y="198" fill="#cbd5e1" font-family="Verdana,sans-serif" font-size="20">Full Stack Developer · .NET &amp; Business Software</text>
+<rect x="58" y="228" width="90" height="4" rx="2" fill="url(#accent)"/>
+<text x="58" y="272" fill="#94a3b8" font-family="Verdana,sans-serif" font-size="17">Real problems. Thoughtful software. Lasting impact.</text>
+<text x="58" y="325" fill="#a78bfa" font-family="monospace" font-size="14">github.com/jithuth</text>
+<g transform="translate(760 88)"><rect width="375" height="205" rx="15" fill="#0b1020" stroke="#7c3aed" stroke-opacity=".5"/><path d="M0 40H375" stroke="#334155"/><circle cx="22" cy="21" r="5" fill="#f87171"/><circle cx="40" cy="21" r="5" fill="#fbbf24"/><circle cx="58" cy="21" r="5" fill="#34d399"/><text x="230" y="25" fill="#64748b" font-family="monospace" font-size="12">developer.cs</text>
+<g font-family="monospace" font-size="16"><text x="24" y="78" fill="#c4b5fd">public class Developer</text><text x="24" y="109" fill="#94a3b8">{</text><text x="42" y="140" fill="#38bdf8">Focus = "Useful software";</text><text x="42" y="170" fill="#34d399">BuildWithCare();</text><text x="24" y="195" fill="#94a3b8">}</text></g><rect x="202" y="155" width="8" height="18" fill="#a78bfa"><animate attributeName="opacity" values="1;0;1" dur="1.5s" repeatCount="indefinite"/></rect></g>
+</svg>
