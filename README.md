@@ -1,35 +1,51 @@
 <div align="center">
 
-<img width="100%" alt="Purple animated wave banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=180&section=header&text=Jithu%20Thomas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20with%20purpose.%20Build%20with%20care.&descAlignY=62&descSize=17" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Jithu Thomas — Full Stack Developer. Real problems. Thoughtful software. Lasting impact." />
 
-# Hi, I'm Jithu 👋
+<br />
 
-<img alt="Animated introduction: .NET developer, SaaS builder, and automation enthusiast" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+.NET+Developer;Building+Business+Software+%26+SaaS;Turning+Everyday+Problems+into+Useful+Tools" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1400&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Building+with+.NET%2C+JavaScript+%26+SQL;Business+Applications+%C2%B7+SaaS+%C2%B7+Automation;From+an+Everyday+Problem+to+a+Working+Product" alt="Animated introduction describing my development interests" />
 
-### Full Stack Developer · .NET · Business Software
+**I turn everyday business challenges into useful software.**
 
-Building practical software that connects people, businesses, and everyday operations.
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-7C3AED?style=for-the-badge)](https://www.linkedin.com/in/jithuthomas/)
+[![Projects](https://img.shields.io/badge/EXPLORE-My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jithuth?tab=repositories)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%E2%80%99s_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jithuthomas/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github)](https://github.com/jithuth?tab=repositories)
+<br />
+
+[About](#-the-person-behind-the-code) · [Toolkit](#-my-development-toolkit) · [Projects](#-explore-my-work) · [Connect](#-have-a-problem-worth-solving)
 
 </div>
 
 ---
 
+## 👨‍💻 The person behind the code
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### Hello, I'm Jithu 👋
+
+I'm a full stack developer focused on **ASP.NET Core, SQL Server, and business applications**. My experience in engineering and technical operations shapes how I approach software: understand the work, simplify the process, and make the result useful.
+
+🧩 **Building:** business software, ecommerce, and SaaS  
+⚡ **Exploring:** AI integrations and workflow automation  
+🛠️ **Valuing:** clear architecture and maintainable code  
+🌱 **Driven by:** practical problems that deserve better tools
+
+</td>
+<td width="42%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Animated developer working at a desk" />
+<br />
+<sub>From understanding the problem to shipping the solution.</sub>
+</td>
+</tr>
+</table>
+
+## 🛠️ My development toolkit
+
 <div align="center">
-  <img width="460" alt="Looping animation of a developer coding at a desk" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-</div>
-
-## 👨‍💻 A little about me
-
-I'm Jithu, a full stack developer with a focus on ASP.NET Core, SQL Server, and applications that solve real business problems. My work brings software development together with experience in engineering and technical operations.
-
-- **My focus:** business applications, ecommerce, SaaS, and workflow automation.
-- **How I build:** clear architecture, thoughtful interfaces, and maintainable code.
-- **What interests me:** AI integrations, connected operations, and useful tools for small businesses.
-
-## 🛠️ My toolkit
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" />
@@ -44,33 +60,71 @@ I'm Jithu, a full stack developer with a focus on ASP.NET Core, SQL Server, and 
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-| Area | Technologies |
-| --- | --- |
-| Backend | ASP.NET Core, Razor Pages, REST APIs, Entity Framework Core, Node.js, Laravel |
-| Frontend | JavaScript, TypeScript, Next.js, Tailwind CSS |
-| Data | SQL Server, MySQL, Supabase |
-| Desktop & mobile | C#, WPF, Windows Forms, Flutter |
-| Quality & delivery | xUnit, Selenium, Git, GitHub |
+</div>
 
-## 🚀 Explore my repositories
+| Build layer | My tools |
+| :--- | :--- |
+| **Backend & APIs** | C# · ASP.NET Core · Razor Pages · Entity Framework Core · Node.js · Laravel |
+| **Frontend & experience** | JavaScript · TypeScript · Next.js · Tailwind CSS |
+| **Databases** | SQL Server · MySQL · Supabase |
+| **Desktop & mobile** | WPF · Windows Forms · Flutter |
+| **Quality & delivery** | xUnit · Selenium · Git · GitHub |
 
-A few places to start exploring my public work:
+## 🚀 Explore my work
 
-| Engineering & tools | Web & community |
-| --- | --- |
-| [Pipe Designer](https://github.com/jithuth/pipedesigner) | [Kuwait Malayali](https://github.com/jithuth/kwmalayali) |
-| [Wire Calculator](https://github.com/jithuth/Wirecalculator-main) | [Only Cotton](https://github.com/jithuth/onlycotton) |
-| [QuickUnlocker Web](https://github.com/jithuth/Quickunlocker.Web) | [Product Canvas](https://github.com/jithuth/Productcanvas) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🤝 Let's build something useful
+### 🔧 Engineering & tools
 
-Interested in business software, .NET development, or practical automation?
-Connect with me on [LinkedIn](https://www.linkedin.com/in/jithuthomas/).
+Explore repositories from my tools collection.
+
+**[Pipe Designer →](https://github.com/jithuth/pipedesigner)**  
+**[Wire Calculator →](https://github.com/jithuth/Wirecalculator-main)**  
+**[QuickUnlocker Web →](https://github.com/jithuth/Quickunlocker.Web)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web & community
+
+Explore repositories from my web collection.
+
+**[Kuwait Malayali →](https://github.com/jithuth/kwmalayali)**  
+**[Only Cotton →](https://github.com/jithuth/onlycotton)**  
+**[Product Canvas →](https://github.com/jithuth/Productcanvas)**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[**Browse all my repositories ↗**](https://github.com/jithuth?tab=repositories)
+
+</div>
+
+## 💡 How I approach a build
+
+| Understand | Design | Build | Improve |
+| :--- | :--- | :--- | :--- |
+| Learn the real workflow | Keep the experience clear | Write maintainable code | Test, listen, and refine |
 
 ---
 
 <div align="center">
-  <sub>Good software starts with understanding the problem.</sub>
-  <br /><br />
-  <img width="100%" alt="Purple and blue footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" />
+
+## 🤝 Have a problem worth solving?
+
+I'm interested in **.NET development, business applications, and practical automation**.
+
+[![Connect with Jithu](https://img.shields.io/badge/LET'S_BUILD_SOMETHING_USEFUL-7C3AED?style=for-the-badge)](https://www.linkedin.com/in/jithuthomas/)
+
+<br />
+
+*Good software starts with understanding the problem.*
+
+<img width="100%" alt="Purple and blue closing wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" />
+
 </div>
